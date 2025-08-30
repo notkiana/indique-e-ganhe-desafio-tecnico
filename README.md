@@ -9,9 +9,6 @@ Implementação de uma página web onde um **indicador** cadastra seus dados e *
 > - Exibição dos **Termos e Condições (Anexo A)** de forma clara, com **aceite obrigatório**.
 > - Layout simples, responsivo e funcional (TailwindCSS).
 > - Armazenamento local em arquivo `data/submissions.json`.
-> - Comentários em linha explicando escolhas no código.
->
-> Termos transcritos do Anexo A do desafio.
 
 
 ## Tecnologias
